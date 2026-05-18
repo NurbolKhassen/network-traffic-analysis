@@ -48,7 +48,7 @@ This lab simulates real-world traffic monitoring tasks performed by SOC analysts
   - Echo Reply
 
 📸 Screenshot:
-`screenshots/icmp-analysis.png`
+`icmp-analysis.png`
 
 ---
 
@@ -59,7 +59,7 @@ This lab simulates real-world traffic monitoring tasks performed by SOC analysts
   - HTTP GET request
 
 📸 Screenshot:
-`http-analysis.png`
+`/http-analysis.png`
 
 ---
 
