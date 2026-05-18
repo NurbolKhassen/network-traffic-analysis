@@ -59,7 +59,7 @@ This lab simulates real-world traffic monitoring tasks performed by SOC analysts
   - HTTP GET request
 
 📸 Screenshot:
-`screenshots/http-analysis.png`
+`http-analysis.png`
 
 ---
 
